@@ -1,0 +1,63 @@
+*{box-sizing: border-box;}
+
+.backgroundcolor {
+    background-color: whitesmoke;
+}
+
+.center {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.inputmaxwidth {
+    width: auto;
+}
+
+.inputchinhgiua {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+ label {
+     padding: 3px;
+ }
+
+
+ .k3 {
+    width: auto;
+    margin-right: 100px;
+    
+}
+
+.k1 {
+    width: 100px;
+    
+}
+.k2 {
+    width: 200px;
+}
+
+.k4 {
+    width: 350px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+form {
+    width: 400px;
+    
+}
+
+.d1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+.d2 {
+    padding-left: 450px;
+    width: 400px;
+}
+
+.hocsinhgioi1
+{
+    border: 1px solid red;
+}
